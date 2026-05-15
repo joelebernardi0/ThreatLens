@@ -1,6 +1,6 @@
 🛡️ ThreatLens — Cyber Threat Intelligence Dashboard
 
-
+![image alt](https://github.com/joelebernardi0/ThreatLens/blob/a259384298cddff349b3bc8a718fcb10d484de99/Screenshot%202026-05-14%20193611.png)
 
 🧭 Panoramica del Progetto
 
