@@ -1,0 +1,4 @@
+requests
+python-whois
+jinja2
+pandas
