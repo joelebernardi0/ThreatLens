@@ -2,30 +2,6 @@
 
 
 
-!\[ThreatLens Banner](https://raw.githubusercontent.com/joelebernardi0/ThreatLens/main/banner.png)
-
-
-
-
-
-🔰 Badge del Progetto
-
-!\[Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
-
-
-
-!\[Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge\&logo=streamlit)
-
-
-
-!\[Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-IOC%20Analysis-green?style=for-the-badge)
-
-
-
-!\[Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
-
-
 🧭 Panoramica del Progetto
 
 ThreatLens è una dashboard interattiva progettata per analizzare Indicatori di Compromissione (IOC) come indirizzi IP e hash di file.
