@@ -2,7 +2,7 @@
 
 
 
-!\[ThreatLens Banner](https://dummyimage.com/1200x250/000/00ff9d\&text=ThreatLens+Cyber+Intelligence+Dashboard)
+!\[ThreatLens Banner](https://i.imgur.com/8p7yYcU.png)
 
 
 
