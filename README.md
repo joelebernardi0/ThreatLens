@@ -51,13 +51,22 @@ Il progetto nasce per offrire una soluzione moderna, intuitiva e facilmente este
 
 ```
 ThreatLens/
-│── src/
-│     └── app.py
-│── vt_api.py
-│── abuseip_api.py
-│── risk_engine.py
-│── requirements.txt
 │── README.md
+│── requirements.txt
+│
+│── src/
+│     ├── main.py
+│     ├── vt_api.py
+│     ├── abuseip_api.py
+│     ├── risk_engine.py
+│     └── report_generator.py
+│
+│── data/
+│     └── sample_iocs.txt
+│
+│── output/
+│     └── .gitkeep
+
 ```
 
 ### **Tecnologie utilizzate**
