@@ -1,6 +1,9 @@
 # 🛡️ **ThreatLens — Cyber Threat Intelligence Dashboard**  
 ### *Analisi, correlazione e visualizzazione di Indicatori di Compromissione (IOC)*
+---
+![image alt](https://github.com/joelebernardi0/ThreatLens/blob/3d0b1811e28684c0c4fa005df75e1f9de70e08a2/Screenshot%202026-05-15%20151221.png)
 
+![image alt](https://github.com/joelebernardi0/ThreatLens/blob/3d0b1811e28684c0c4fa005df75e1f9de70e08a2/Screenshot%202026-05-15%20151201.png)
 ---
 
 ## 🚀 **Introduzione**
