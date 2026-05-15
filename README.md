@@ -2,7 +2,7 @@
 
 
 
-!\[ThreatLens Banner](https://i.imgur.com/8p7yYcU.png)
+!\[ThreatLens Banner](https://raw.githubusercontent.com/joelebernardi0/ThreatLens/main/banner.png)
 
 
 
