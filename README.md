@@ -1,18 +1,28 @@
 🛡️ ThreatLens — Cyber Threat Intelligence Dashboard
 
-https://dummyimage.com/1200x250/000/00ff9d\&text=ThreatLens+Cyber+Intelligence+Dashboard
+
+
+!\[ThreatLens Banner](https://dummyimage.com/1200x250/000/00ff9d\&text=ThreatLens+Cyber+Intelligence+Dashboard)
+
+
 
 
 
 🔰 Badge del Progetto
 
-https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python
+!\[Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 
-https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge\&logo=streamlit
 
-https://img.shields.io/badge/Threat%20Intelligence-IOC%20Analysis-green?style=for-the-badge
 
-https://img.shields.io/badge/Status-Active-success?style=for-the-badge
+!\[Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge\&logo=streamlit)
+
+
+
+!\[Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-IOC%20Analysis-green?style=for-the-badge)
+
+
+
+!\[Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 
 
